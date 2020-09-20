@@ -1,7 +1,37 @@
 # projeto-curso-git (treinando)
-Historicos dos comandos usados na aula:
 
-mkdir projeto-curso-git  // criando directório
+## Part 1
+>- Para saber quais arquivos devem ser adicionado:
+> git status
+
+>- Como remover a origem do repositório remoto?
+> git remote rm origin
+
+>- Como monitorar os arquivos no repositório do Github?
+> git add
+
+## Part 2
+>- *git add*:
+> adiciona todos os arquivos modificados.
+
+>- alterar o código:
+> *git add* index.html e em seguida *git commit -m* 'minha alteração' e por fim, *git push*.
+
+>- *git status*(após usar o commit de um arquivo alterado):
+> o nome da branch que não tem alterações para serem commitadas.
+
+>- significado da cor vermelha e verde após usar  *git status*:
+> arquivo modificado e não rastreável - arquivo modificado e rastreável
+
+>- *git log*:
+> mostra o histórico de commits do reositório remoto e local.
+
+>- depois de feito o commit quais dados aparecem no terminal?
+> mostra todos os arquivos alterados, deletados ou adicionados, linhas alteradas e o id  commit.
+
+### Historicos dos comandos usados na aula:
+
+  mkdir projeto-curso-git  // criando directório
 
   cd projeto-curso-git  
   
@@ -52,3 +82,5 @@ mkdir projeto-curso-git  // criando directório
   git push
   
   history
+  
+  
