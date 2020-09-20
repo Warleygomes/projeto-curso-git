@@ -57,7 +57,7 @@
 
 ## Part 5
 >- *git push origin* NOME_DA_BRANCH
-> Envia a nova branch do repositório local para o remoto.
+> envia a nova branch do repositório local para o remoto(github).
 
 ### Historicos dos comandos usados na aula:
 
