@@ -31,7 +31,7 @@
 
 ## Part 3
 >- O que é branch?
-> é um 'ramo'da árvore de desenvolvimento
+> é um 'ramo' da árvore de desenvolvimento
 
 >- git branch:
 > mostra todas as branch que foi criada no repositório local.
@@ -58,6 +58,24 @@
 ## Part 5
 >- *git push origin* NOME_DA_BRANCH
 > envia a nova branch do repositório local para o remoto(github).
+
+>- *git commit -a -m* COMENTÁRIO
+> adiciona um arquivo e commit em apensa um comando.
+
+>- *git rebase* NOME_DO_ARQUIVO
+> junta arquvios de duas branches sem gerar um novo evento.
+
+>- *git remote*
+> ver repositório remoto
+
+>- *git remote -v*
+> para listar todos repositórios remotos até a URL do repositório.
+
+>- *git log --stat*
+> consultar commits e estatíscas abreviadas criada no Github.
+
+>- *git tag 'TEXTO'*
+> marcar compromissos específicos no Git.
 
 ### Historicos dos comandos usados na aula:
 
