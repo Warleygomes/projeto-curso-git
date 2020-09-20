@@ -2,13 +2,13 @@
 
 ## Part 1
 >- Para saber quais arquivos devem ser adicionado:
-> git status
+> *git status*
 
 >- Como remover a origem do repositório remoto?
-> git remote rm origin
+> *git remote rm origin*
 
 >- Como monitorar os arquivos no repositório do Github?
-> git add
+> *git add*
 
 ## Part 2
 >- *git add*:
