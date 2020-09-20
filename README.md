@@ -1,4 +1,5 @@
 # projeto-curso-git (treinando)
+https://web.digitalinnovation.one/course/introducao-ao-github-e-comandos-para-trabalhar-em-equipe
 
 ## Part 1
 >- Para saber quais arquivos devem ser adicionado:
@@ -76,6 +77,10 @@
 
 >- *git tag 'TEXTO'*
 > marcar compromissos específicos no Git.
+
+## Part 6
+>- *git merge NOME_DA_BRANCH*
+responsável por mesclar alterações de um branch, a uma branch ativa, como a master.(iguala as branch com o mesmo conteúdo)
 
 ### Historicos dos comandos usados na aula:
 
