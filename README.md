@@ -24,10 +24,36 @@
 > arquivo modificado e não rastreável - arquivo modificado e rastreável
 
 >- *git log*:
-> mostra o histórico de commits do reositório remoto e local.
+> mostra o histórico de commits do repositório remoto e local e commits que tiveram push.
 
 >- depois de feito o commit quais dados aparecem no terminal?
 > mostra todos os arquivos alterados, deletados ou adicionados, linhas alteradas e o id  commit.
+
+## Part 3
+>- O que é branch?
+> é um 'ramo'da árvore de desenvolvimento
+
+>- git branch:
+> mostra todas as branch que foi criada no repositório local.
+
+>- *git branch * 'nome da branch' :
+> cria um nova branch  no repositório local, mas mantém a referência original, no caso a master.
+
+>- *git checkout - b*  cria e já troca a referência para a nova branch criada. 
+> *git checkout master* navega de um branch para outro, neste caso, para master.
+
+## Part 4
+>- *git remote add origin*
+> conecta meu respositório a um servidor.
+
+>- o que acontece com uma branch criada?
+> todos oas arquivos na branch master são clonados para a nova branch.
+
+>- *git checkout* NOME_DA_BRANCH
+> cria e mantém o local atual
+
+>- *git branch -D* NOME_DA_BRANCH
+> utilizado para deletar uma branch
 
 ### Historicos dos comandos usados na aula:
 
