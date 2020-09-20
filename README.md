@@ -50,10 +50,14 @@
 > todos oas arquivos na branch master são clonados para a nova branch.
 
 >- *git checkout* NOME_DA_BRANCH
-> cria e mantém o local atual
+> cria e mantém o local atual.
 
 >- *git branch -D* NOME_DA_BRANCH
-> utilizado para deletar uma branch
+> utilizado para deletar uma branch.
+
+## Part 5
+>- *git push origin* NOME_DA_BRANCH
+> Envia a nova branch do repositório local para o remoto.
 
 ### Historicos dos comandos usados na aula:
 
