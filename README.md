@@ -1,7 +1,7 @@
 # projeto-curso-git (treinando)
 https://web.digitalinnovation.one/course/introducao-ao-github-e-comandos-para-trabalhar-em-equipe
 
-Use gitkpara dar uma olhada em seu repositório
+Use *gitk* para visualizar todos os branch como relatório
 
 ## Part 1
 >- Para saber quais arquivos devem ser adicionado:
