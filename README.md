@@ -1,6 +1,8 @@
 # projeto-curso-git (treinando)
 https://web.digitalinnovation.one/course/introducao-ao-github-e-comandos-para-trabalhar-em-equipe
 
+Use gitkpara dar uma olhada em seu repositório
+
 ## Part 1
 >- Para saber quais arquivos devem ser adicionado:
 > *git status*
