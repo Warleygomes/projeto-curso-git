@@ -84,7 +84,28 @@ Use *gitk* para visualizar o controle de versão
 >- *git merge NOME_DA_BRANCH*
 responsável por mesclar alterações de um branch, a uma branch ativa, como a master.(iguala as branch com o mesmo conteúdo)
 
-### Historicos dos comandos usados na aula:
+>- *git log*
+O id do commit, a branch, a data, e-mail e nome do autor
+
+>- *git push origin NOME_DA_BRANCH*
+enviar do local para o remoto
+
+>- *git resert HEAD NOME_DA_BRANCH*
+retira um arquivo adicionado para commitar (após usar o add)
+
+>- *git checkout -- NOME_DO_ARQUIVO
+serve para resertar as alterações de um arquivo
+
+>- *git config --global user.name"SEU NOME" - config --global user.email "email@example.com"*
+configurar nome e e-mail
+
+>- *git diff NOME_DO_ARQUIVO
+ver as modificaçoes feitas no arquivo
+
+>- *git commit --amend*
+serve para editar a mensagem do último commite
+
+### Historicos dos comandos basicos usados nas aulas:
 
   mkdir projeto-curso-git  // criando directório
 
