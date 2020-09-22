@@ -3,6 +3,8 @@ https://web.digitalinnovation.one/course/introducao-ao-github-e-comandos-para-tr
 
 Use *gitk* para visualizar o controle de versão
 
+GitHub renomeia repositórios Master para Main: a partir de outubro/2020, todos os novos repositórios padrão criados no GitHub serão nomeados Main, ao invés de Master, um termo que a companhia considera mais inclusivo.
+
 ## Part 1
 >- Para saber quais arquivos devem ser adicionado:
 > *git status*
